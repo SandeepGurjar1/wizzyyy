@@ -55,11 +55,11 @@ export default function Fear() {
         </div>
         <div className="book2">
             <img src={P2} alt="" />
-            <a href="#">Meditation</a>
+            <a href="www.google.com">Meditation</a>
         </div>
         <div className="book3">
             <img src={P3} alt="" />
-            <a href="#">Talk To Friends</a>
+            <a href="www.google.com">Talk To Friends</a>
         </div>
       </div>
     </div>
