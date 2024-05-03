@@ -1,0 +1,19 @@
+.form{
+    height: 500px;
+}
+.form1{
+    height: 300px;
+    width: 300px;
+    border: 0.2px solid black;
+    margin-left: 38%;
+    border-radius: 2px;
+    text-align: start;
+}
+.form1>*{
+    margin-top: 20px;
+}
+
+button{
+    margin-left: 40%;
+    background-color: rgb(255, 0, 68);
+}

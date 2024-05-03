@@ -1,0 +1,23 @@
+h4{
+    text-align: start;
+    margin-left: 40px;
+}
+
+.books>*{
+    height: 40%;
+    width: 31%;
+    border: 0.5px solid blueviolet;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+   
+    border-radius: 5%;
+}
+
+img{
+    margin-top: 10px;
+    height: 450px;
+    width: 350px;
+    border-radius: 5px;
+}

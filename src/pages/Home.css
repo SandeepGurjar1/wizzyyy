@@ -1,0 +1,38 @@
+.log1{
+    height: 20px;
+    width: 20px;
+}
+p{
+    color: rgb(250, 53, 53);
+    text-align: center;
+}
+h2{
+    
+    background: -webkit-linear-gradient(#f91909, #ec30bd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.divs>*{
+    height: 40%;
+    width: 31%;
+    border: 0.5px solid blueviolet;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+   
+    border-radius: 5%;
+
+}
+a{
+    margin-left: 10%;
+   
+}
+.emos{
+    margin-top: 10px;
+    height: 250px;
+    width: 350px;
+}
+
