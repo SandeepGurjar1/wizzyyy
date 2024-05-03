@@ -55,11 +55,11 @@ export default function Angry() {
         </div>
         <div className="book2">
             <img src={P2} alt="" />
-            <a href="#">Meditation Centre</a>
+            <a href="www.google.com">Meditation Centre</a>
         </div>
         <div className="book3">
             <img src={P3} alt="" />
-            <a href="#">Favourite Restraunts</a>
+            <a href="www.google.com">Favourite Restraunts</a>
         </div>
       </div>
     </div>
